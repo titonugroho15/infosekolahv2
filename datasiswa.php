@@ -21,7 +21,7 @@
 				<?php include "include/biodata.php"; ?>
 			</div>
 				<div class="col-lg-9 ">
-					<div class="well well-sm" style="text-align: center;"><h4>Lihat Data Siswa</h4></div>
+					<div class="well well-sm" style="text-align: center;"><h4>Lihat Data semua Siswa</h4></div>
 				 <?php
 					  	 include "dbconfig.php";
 								//konfigurasi
