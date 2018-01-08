@@ -1,0 +1,2 @@
+git cllone <alamat>
+git remote add origin <alamat>
